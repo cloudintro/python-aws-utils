@@ -1,0 +1,26 @@
+{
+    "key": "CLASS_TEST_All",
+    "data": [
+        {
+            "name": "Ram",
+            "rollno": "1",
+            "grade": "A+"
+        },
+        {
+            "name": "Bharat",
+            "rollno": "2",
+            "grade": "A"
+
+        },
+        {
+            "name": "Lakshman",
+            "rollno": "3",
+            "grade": "B+"
+        },
+        {
+            "name": "Shatrughna",
+            "rollno": "4",
+            "grade": "B"
+        }
+    ]
+}
