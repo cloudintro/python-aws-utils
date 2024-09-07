@@ -1,26 +1,54 @@
 {
-    "key": "CLASS_TEST_All",
-    "data": [
+    "exam": "CLASS_TEST_All",
+    "result": [
         {
             "name": "Ram",
             "rollno": "1",
-            "grade": "A+"
+            "subject": "bhasa",
+            "marks": "70"
+        },
+        {
+            "name": "Ram",
+            "rollno": "1",
+            "subject": "vigyan",
+            "marks": "80"
         },
         {
             "name": "Bharat",
             "rollno": "2",
-            "grade": "A"
+            "subject": "bhasa",
+            "marks": "60"
 
+        },
+        {
+            "name": "Bharat",
+            "rollno": "2",
+            "subject": "vigyan",
+            "marks": "65"
         },
         {
             "name": "Lakshman",
             "rollno": "3",
-            "grade": "B+"
+            "subject": "bhasa",
+            "marks": "85"
+        },
+        {
+            "name": "Lakshman",
+            "rollno": "3",
+            "subject": "vigyan",
+            "marks": "70"
         },
         {
             "name": "Shatrughna",
             "rollno": "4",
-            "grade": "B"
+            "subject": "bhasa",
+            "marks": "85"
+        },
+        {
+            "name": "Shatrughna",
+            "rollno": "4",
+            "subject": "vigyan",
+            "marks": "55"
         }
     ]
 }
